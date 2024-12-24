@@ -1,0 +1,15 @@
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\bin\Debug\net8.0\Atleta.exe
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\bin\Debug\net8.0\Atleta.deps.json
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\bin\Debug\net8.0\Atleta.runtimeconfig.json
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\bin\Debug\net8.0\Atleta.dll
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\bin\Debug\net8.0\Atleta.pdb
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.AssemblyInfoInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.AssemblyInfo.cs
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.csproj.CoreCompileInputs.cache
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.sourcelink.json
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.dll
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\refint\Atleta.dll
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.pdb
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\Atleta.genruntimeconfig.cache
+C:\Users\DIVOP\Desktop\Pedro\DevSuperior\C# e Programação Orientada a Objetos Expert\2-Logica-de-programacao\Atleta\Atleta\obj\Debug\net8.0\ref\Atleta.dll

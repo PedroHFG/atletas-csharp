@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\DIVOP\\Desktop\\Pedro\\DevSuperior\\C# e Programa\u00E7\u00E3o Orientada a Objetos Expert\\2-Logica-de-programacao\\Atleta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F44569-152B-4978-BA4C-77DF7107FE54}|Atleta\\Atleta.csproj|c:\\users\\divop\\desktop\\pedro\\devsuperior\\c# e programa\u00E7\u00E3o orientada a objetos expert\\2-logica-de-programacao\\atleta\\atleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F44569-152B-4978-BA4C-77DF7107FE54}|Atleta\\Atleta.csproj|solutionrelative:atleta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DIVOP\\Desktop\\Pedro\\DevSuperior\\C# e Programa\u00E7\u00E3o Orientada a Objetos Expert\\2-Logica-de-programacao\\Atleta\\Atleta\\Program.cs",
+              "RelativeDocumentMoniker": "Atleta\\Program.cs",
+              "ToolTip": "C:\\Users\\DIVOP\\Desktop\\Pedro\\DevSuperior\\C# e Programa\u00E7\u00E3o Orientada a Objetos Expert\\2-Logica-de-programacao\\Atleta\\Atleta\\Program.cs",
+              "RelativeToolTip": "Atleta\\Program.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAEEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:06:53.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
